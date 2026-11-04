@@ -1,6 +1,6 @@
 # Ayush Roy — Portfolio
 
-A responsive personal portfolio for Ayush Roy, built as a static website and deployed on Vercel.
+A responsive personal portfolio made by Ayush Roy, built as a static website and deployed on Vercel.
 
 **Live site:** https://ayush-roy-1901.vercel.app/
 
