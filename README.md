@@ -3,6 +3,7 @@
 A responsive personal portfolio made by Ayush Roy, built as a static website and deployed on Vercel.
 
 **Live site:** https://ayush-roy-1901.vercel.app/
+**GitHub profile:** https://github.com/AyushRoy-19
 
 ## Run locally
 
